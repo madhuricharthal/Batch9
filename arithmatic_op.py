@@ -2,4 +2,4 @@
 a=20
 b=96
 c=a+b
-print("Addition is :",c)
+print(f"Addition of {a} and {b} is {c}")
